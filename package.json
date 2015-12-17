@@ -1,0 +1,15 @@
+{
+  "name": "sq-node-google-analytics-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+  "type": "git",
+  "url": "https://benjaminbalazs@github.com/benjaminbalazs/sq-node-google-analytics-api.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
